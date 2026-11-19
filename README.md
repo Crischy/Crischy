@@ -1,5 +1,3 @@
-# Olá 👋
-
 ### Full Stack Developer · Angola
 
 Profissional orientado para objectivos, com experiência em projectos Full Stack e interesse em criar soluções úteis, bem documentadas e centradas nas pessoas. Trabalho com desenvolvimento web, bases de dados, UI/UX Design e ferramentas de IA aplicadas ao desenvolvimento.
@@ -44,9 +42,9 @@ Profissional orientado para objectivos, com experiência em projectos Full Stack
 | [Pokedex](https://github.com/Crischy/fjsdev-M2-LP_pokedex) | Projecto de formação JavaScript: Pokedex. | JavaScript |
 | [Conta Bancária no Terminal](https://github.com/Crischy/fjd_M1-LP-contaBancariaTerminal) | Simulação da apresentação de uma conta bancária no terminal. | Java e Scanner |
 | [Web Service Par ou Ímpar](https://github.com/Crischy/WebService_ParImpar) | Web service para verificar se um número inteiro é par ou ímpar. | PHP |
-| [Flexbox — Menu Responsivo](https://github.com/Crischy/Flexbox-MenuResponsivo) | Layout de um menu responsivo com Flexbox. | HTML e CSS |
+| [Flexbox - Menu Responsivo](https://github.com/Crischy/Flexbox-MenuResponsivo) | Layout de um menu responsivo com Flexbox. | HTML e CSS |
 
-> Consulte os restantes projectos no meu [perfil GitHub](https://github.com/Crischy?tab=repositories), incluindo exercícios de Java, PHP, CSS Grid, Flexbox, AJAX e XML.
+> Consulte os restantes projectos no meu [perfil GitHub](https://github.com/Crischy?tab=repositories), incluindo exercícios de Java, PHP, CSS Grid, Flexbox e AJAX.
 
 ## Formação e aprendizagem contínua
 
